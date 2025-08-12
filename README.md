@@ -9,6 +9,8 @@ Repositório com o conteúdo da aula:
 
 Foi automatizado um fluxo simples de Cadastro + Login
 
+[Task it!](http://juliodelima.com.br/taskit).
+
 ---
 
 * Utilizado [JUnit](https://junit.org/).
@@ -19,6 +21,7 @@ Foi automatizado um fluxo simples de Cadastro + Login
 
 ## Tecnologias Utilizadas
 
+- JDK: 24.0.2
 - Junit:5.13.4
 - Selenium-Java:4.34.0
 - Maven: 3.9
